@@ -1,0 +1,1 @@
+# telescope-golangci-lint
